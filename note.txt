@@ -1,0 +1,29 @@
+Ok, what about:
+https://github.com/verialabs/ctf-agent
+https://github.com/aliasrobotics/CAI
+https://github.com/0x4m4/hexstrike-ai
+https://github.com/h0w1tzxr/pwndbg-mcp
+https://github.com/foxibu/CTF-Solver
+https://pypi.org/project/nobody-pentest-ultra/
+Claude Skill called ctf-kit
+
+that you mentioned earlier.
+
+
+
+
+How will the AI agents use tools? 
+
+
+
+
+any skills to add?
+
+
+
+
+mcp & plugins??
+
+
+
+best github repo useful for CTFs and their entire setup guide.
