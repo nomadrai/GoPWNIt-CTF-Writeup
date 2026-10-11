@@ -1,0 +1,8 @@
+# Ignore the contents of every top-level folder, including nested artifacts.
+/*/*
+
+# Include each challenge's writeup.
+!/*/writeup.md
+
+# Local tooling settings.
+/.claude/
